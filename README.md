@@ -1,5 +1,5 @@
 # Project335_Scheduler
-A program that aligns schedules
+A program that finds the common available times for a meeting for a group of people.
 
 ## Member
 - Mustafa Atakan Tan (mtan17@csu.fullerton.edu)
